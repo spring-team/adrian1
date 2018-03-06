@@ -1,3 +1,5 @@
+// As I say yes to life, life says yes to me.
+
 package org.aspectprogrammer;
 
 import org.springframework.boot.SpringApplication;
